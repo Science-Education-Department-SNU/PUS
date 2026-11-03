@@ -7,7 +7,7 @@
 
 | 프로그램 | 운영 기관 | 홈페이지 | 자료 폴더 |
 |---|---|---|---|
-| SNU융합과학배움터 | 서울대학교 사범대학 | [바로가기](http://shgifted.or.kr/frontpage.asp?catalogid=shgifted&language=ko) | [열기]([gifted/snu-convergence-science/](https://github.com/Science-Education-Department-SNU/Programs/blob/main/informal-students/gifted%20/%20snu-convergence-science%20/%20README.md)) |
+| SNU융합과학배움터 | 서울대학교 사범대학 | [바로가기](http://shgifted.or.kr/frontpage.asp?catalogid=shgifted&language=ko) | [열기]([gifted/snu-convergence-science/](https://github.com/Science-Education-Department-SNU/Programs/blob/main/informal-students/gifted%20/%20snu-convergence-science%20/%20README.md|
 
 ## 주말 프로그램 (`weekend/`)
 
